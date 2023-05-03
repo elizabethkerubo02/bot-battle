@@ -32,7 +32,7 @@ function BotCard({bot,handleClick, handleDelete}) {
         </div>
         <div className="extra content">
           <span>
-            <i className="icon heartbeat" />
+            <i className="icon heartbeat" /> 
             {bot.health}
           </span>
 
